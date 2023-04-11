@@ -62,6 +62,6 @@ public class BoundaryEmmenager {
                 System.out.println("Attention Druide,vous vous êtes trompé entre le minimum et le maximum");
             }
         }
-        controlEmmenager.ajouterDuide(nomVisiteur, force, effetPotionMin, effetPotionMax);
+        controlEmmenager.ajouterDruide(nomVisiteur, force, effetPotionMin, effetPotionMax);
     }
 }
